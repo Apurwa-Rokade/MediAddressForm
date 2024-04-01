@@ -2,7 +2,7 @@
 
 ## To start a project
 
-git clone \
+git clone https://github.com/Apurwa-Rokade/MediAddressForm.git\
 npm install \
 npm run dev
 
