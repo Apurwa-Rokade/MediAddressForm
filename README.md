@@ -2,12 +2,13 @@
 
 ## To start a project
 
-git clone https://github.com/Apurwa-Rokade/MediAddressForm.git\
+git clone https://github.com/Apurwa-Rokade/MediAddressForm.git \
 npm install \
 npm run dev
 
 ## Here is the deployment link
-https://mediaddressform.netlify.app/  
+
+https://mediaddressform.netlify.app/
 
 ### `npm run build`
 
